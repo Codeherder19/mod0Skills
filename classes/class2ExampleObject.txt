@@ -1,0 +1,11 @@
+Instance of a door class: Steuben's Uptown Front door
+1.) numberOfLocks = 2
+2.) keyCode = ["1", "2", "3", "4", "5"]
+3.) closed = true
+4.) color = "brown"
+
+Methods:
+1.) pushDoor changes the value of the closed boolean from true to false
+2.) breakIn decreases the numberOfLocks to 0
+3.) programKeyCode would change the array of the keyCode attribute, maybe based on user interface
+4.) rePaint would change the color from brown to a different color
