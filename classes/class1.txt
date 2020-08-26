@@ -1,0 +1,12 @@
+Class that might exist in a restaurant: Table
+Attributes
+1.) numberOfLegs = (integer)
+2.) splinters = (boolean)
+3.) typesOfSilverware = (array)
+4.) weightOfSalt = (float)
+
+Methods
+1.) sandTable = this would change the value of the splinters boolean from true to false
+2.) break = this method would decrease the value of the numberOfLegs attribute by 1
+3.) changeFromLunchToDinner = this method would add more strings to the array in typesOfSilverware
+4.) seasonFood = this method would decrease the float value of the weightOfSalt float.
