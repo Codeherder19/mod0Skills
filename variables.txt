@@ -1,0 +1,8 @@
+var food = "pizza";
+var isDelicious = true;
+var food = "cheeseBurger";
+var num2 = 2;
+var num7 = 7;
+var quotient = 3.5;
+var songs = ["8 days a week", "Ruby Tuesday", "Yellow Submarine"];
+var ar = ["8 days a week", "Ruby Tuesday", "Yellow Submarine"];ar.shift()
