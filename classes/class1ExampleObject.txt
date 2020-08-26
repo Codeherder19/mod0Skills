@@ -1,0 +1,13 @@
+Instance: Booth at Tony Roma's
+Attributes
+1.) numberOfLegs = 4
+2.) splinters = true
+3.) typesOfSilverware = ["knife", "fork", "spoon"]
+4.) weightOfSalt = 66.6
+
+I think I already did this in class1.txt but I"ll put it here as well.
+
+break would decrease the value of numberOfLegs from 4 to 3
+sandTable would change the splinters value to false
+changeFromLunchToDinner would add "saladFork" and "wineGlass" to the array of typesOfSilverware
+seasonFood would decrease the weightOfSalt float by 0.6
