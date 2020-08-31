@@ -1,4 +1,4 @@
-Instance: Booth at Tony Roma's
+Instance: Dinner table at Tony Roma's restaurant
 Attributes
 1.) numberOfLegs = 4
 2.) splinters = true
