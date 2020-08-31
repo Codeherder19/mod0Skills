@@ -1,4 +1,4 @@
-Class that might exist in a restaurant: Table
+Class that might exist in a restaurant: Dinner Table
 Attributes
 1.) numberOfLegs = (integer)
 2.) splinters = (boolean)
