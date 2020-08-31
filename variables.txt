@@ -1,8 +1,8 @@
 var food = "pizza";
 var isDelicious = true;
-var food = "cheeseBurger";
+food = "cheeseBurger";
 var num2 = 2;
 var num7 = 7;
-var quotient = 3.5;
+var quotient = console.log(num7 / num2);
 var songs = ["8 days a week", "Ruby Tuesday", "Yellow Submarine"];
-var ar = ["8 days a week", "Ruby Tuesday", "Yellow Submarine"];ar.shift()
+var firstElement = songs.shift()
