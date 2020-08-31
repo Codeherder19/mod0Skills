@@ -1,4 +1,4 @@
-Class found in a restaurant: door
+Class found in a restaurant: Security Door
 Attributes for cup Class
 1.) numberOfLocks = (integer)
 2.) keyCode = (array)
@@ -6,7 +6,7 @@ Attributes for cup Class
 4.) color = (string)
 
 Methods for door Class
-1.) push would modify the closed boolean attribute 
+1.) push would modify the closed boolean attribute
 2.) breakIn would modify the number of locks integer attribute
 3.) programKeyCode would modify the keyCode array
 4.) rePaint would modify the color string attribute
