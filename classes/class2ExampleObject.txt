@@ -1,4 +1,4 @@
-Instance of a door class: Steuben's Uptown Front door
+Instance of a door class: Steuben's Uptown Security door
 1.) numberOfLocks = 2
 2.) keyCode = ["1", "2", "3", "4", "5"]
 3.) closed = true
